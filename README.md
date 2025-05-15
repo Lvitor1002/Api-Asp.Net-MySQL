@@ -1,18 +1,18 @@
-<p>
+<h1>
   API REST protegida por JWT(JSON Web Token), conectada ao banco de dados MySQL Local.
-</p>
+</h1>
 
 <br>
 <br>
 
-<h1>Swagger UI</h1>
+<h3>Swagger UI</h3>
 <div>
   <img src="Swagger.png" width="1000px"/>
 </div>
 
 <br>
 
-<h1>Terminal exibindo a tabela colaborador no banco.</h1>
+<h3>Terminal MySql exibindo a tabela colaborador</h3>
 <div>
-  <img src="MySql.png" width="1000px"/>
+  <img src="MySql.png" width="900px"/>
 </div>
