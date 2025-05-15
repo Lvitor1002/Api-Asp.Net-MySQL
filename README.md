@@ -20,5 +20,5 @@
 
 <h1>Terminal exibindo a tabela colaborador no banco.</h1>
 <div>
-  <img src="MySQL.png" width="1000px"/>
+  <img src="MySql.png" width="1000px"/>
 </div>
