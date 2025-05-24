@@ -7,12 +7,12 @@
 
 <h3>Swagger UI</h3>
 <div>
-  <img src="Swagger.png" width="1000px"/>
+  <img src="image/Swagger.png" width="1000px"/>
 </div>
 
 <br>
 
 <h3>Terminal MySql exibindo a tabela colaborador</h3>
 <div>
-  <img src="MySql.png" width="900px"/>
+  <img src="image/terminal.png" width="800px"/>
 </div>
