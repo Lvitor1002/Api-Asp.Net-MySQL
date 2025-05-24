@@ -66,7 +66,7 @@ namespace WebApplicationMYSQL
             var connectionString = builder.Configuration.GetConnectionString("AppDbConnectionString");
             builder.Services.AddDbContext<ColaboradoresDB>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
-            //Injessão de depend?ncia para Colaboradores
+            //Injessï¿½o de depend?ncia para Colaboradores
             builder.Services.AddScoped<IColaboradoRepository, ColaboradorRepository>();
 
             //                              JWT --------------------------------------------------
@@ -100,7 +100,7 @@ namespace WebApplicationMYSQL
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            
 
 
             app.MapControllers();
